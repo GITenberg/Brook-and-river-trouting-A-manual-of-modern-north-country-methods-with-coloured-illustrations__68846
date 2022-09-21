@@ -1,0 +1,31 @@
+_repo: Brook-and-river-trouting-A-manual-of-modern-north-country-methods-with-coloured-illustrations__68846
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Edmonds, Harfield H.
+    gutenberg_agent_id: '54977'
+    url: http://www.gutenberg.org/2009/agents/54977
+  - agent_name: Lee, Norman N.
+    gutenberg_agent_id: '54978'
+    url: http://www.gutenberg.org/2009/agents/54978
+description: ''
+gutenberg_issued: '2022-08-26'
+identifiers:
+  gutenberg: '68846'
+language: en
+pgterms:marc905: 20210706174441edmonds
+pgterms:marc906: '1916'
+pgterms:marc907: GB
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United Kingdom :Harfield H. Edmonds & Norman N. Lee,1916.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trout fishing -- England'
+- !lcc 'SH'
+- GITenberg
+title: "Brook and river trouting\r\nA manual of modern north country methods, with\
+  \ coloured illustrations of flies and fly-dressing materials"
+url: http://www.gutenberg.org/ebooks/68846
