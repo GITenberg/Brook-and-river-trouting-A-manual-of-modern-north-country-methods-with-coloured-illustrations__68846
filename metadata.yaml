@@ -1,5 +1,8 @@
 _repo: Brook-and-river-trouting-A-manual-of-modern-north-country-methods-with-coloured-illustrations__68846
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68846-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Edmonds, Harfield H.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '54978'
     url: http://www.gutenberg.org/2009/agents/54978
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68846#Brook-and-river-trouting-A-manual-of-modern-north-country-methods-with-coloured-illustrations_
 gutenberg_issued: '2022-08-26'
 identifiers:
   gutenberg: '68846'
